@@ -1,3 +1,2 @@
 Another text file. file no.2
-This is my git tutorial no.2
-Hi ganesh how are you?
+Hi Umesh how are you?
